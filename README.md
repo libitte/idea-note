@@ -1,4 +1,4 @@
-memo-of-ideas
+Idea Note
 =============
 
 A good idea just occurred to me!
